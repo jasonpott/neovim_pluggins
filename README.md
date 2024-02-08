@@ -1,12 +1,15 @@
 # neovim_pluggins
 Reference for my current neo vim setup
 
+Spell
+https://johncodes.com/posts/2023/02-25-nvim-spell/
 
     Plug 'sheerun/vim-polyglot'
     https://github.com/sheerun/vim-polyglot
     
     Plug 'junegunn/goyo.vim'
     https://github.com/junegunn/goyo.vim
+    https://tracehelms.com/blog/customizing-vim-for-writing
     
     Plug 'preservim/vim-pencil'
     https://github.com/preservim/vim-pencil
